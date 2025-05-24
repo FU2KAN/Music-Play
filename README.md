@@ -16,7 +16,7 @@ React, Express ve Tailwind CSS kullanarak geliştirilmiş, interaktif bir müzik
 
 
 🚀 Proje Hakkında
-Music-Play, standart müzik çalar uygulamalarının ötesine geçmeyi hedefleyen kişisel bir projedir. Amacım, modern web teknolojilerini (React, Tailwind CSS) kullanarak, kullanıcıya hem tanıdık bir müzik dinleme deneyimi sunmak hem de "dönen plak" görseliyle nostaljik bir dokunuş katmaktı. Proje, dinlenen şarkının görsel bir temsilini sunarak veya kullanıcının tercihine bağlı olarak YouTube videosunu izleme imkanı vererek dinleme deneyimini zenginleştirmeyi amaçlamaktadır.
+Merhaba Bu projem, yani Music-Play & Visuals, aslında benim standart müzik çalar uygulamalarına farklı bir bakış açısıyla yaklaşma denemem oldu. Amacım, sadece şarkı dinlemekle kalmayıp, bu deneyime hem nostaljik hem de modern bir hava katmaktı. Bunun için React (frontend), Express.js (backend) ve Tailwind CSS gibi güncel teknolojileri kullandım. YouTube Data API v3 ile iletişim kurmak için de Axios'tan faydalandım. Projemde, dinlediğiniz şarkının albüm kapağını dönen bir plak görseliyle sunarak o eski plak hissini yakalamak istedim. İsterseniz sadece dinleyebilir, isterseniz de "Dinle" ve "İzle" butonları sayesinde ilgili şarkının YouTube videosunu direkt uygulama içinde izleyerek dinleme deneyiminizi zenginleştirebilirsiniz. Kısacası, bu projede hem kendime özgü bir şeyler yapmak hem de modern web geliştirme yeteneklerimi sergilemek istedim.
 
 ✨ Temel Özellikler
 Şarkı Arama: İstediğiniz şarkıları kolayca arayabilme.
