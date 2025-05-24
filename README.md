@@ -1,12 +1,14 @@
-🎵 Music-Play & Visuals - React Müzik Çalar Uygulaması
+ ![logo](https://github.com/user-attachments/assets/6a61fa67-58df-4b4e-9a8d-4bacf1632878)    Music-Play & Visuals - React Müzik Çalar Uygulaması 
 
 
 Uygulamanın ana ekran görüntüsü 
+
 ![Adsız](https://github.com/user-attachments/assets/bf6b7248-b604-4be1-bbed-36ded0ceabc2)
 
 
 
 Uygulamanın video izleme ekran görüntüsü: YouTube video oynatıcı ve şarkı listesi
+
 ![Adsızz](https://github.com/user-attachments/assets/da10d37b-481c-45b3-b948-9c6f78236ca9)
 
 
