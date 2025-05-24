@@ -1,4 +1,4 @@
- ![logo](https://github.com/user-attachments/assets/6a61fa67-58df-4b4e-9a8d-4bacf1632878)    Music-Play & Visuals - React Müzik Çalar Uygulaması 
+ 🎵  Music-Play & Visuals - React Müzik Çalar Uygulaması 
 
 
 Uygulamanın ana ekran görüntüsü 
