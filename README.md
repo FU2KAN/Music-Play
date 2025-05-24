@@ -1,4 +1,4 @@
- 🎵  Music-Play & Visuals - React Müzik Çalar Uygulaması 
+ 🎵  Music-Play & Visuals - React Müzik Dinleme Uygulaması 
 
 
 Uygulamanın ana ekran görüntüsü 
